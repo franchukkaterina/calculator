@@ -2,8 +2,8 @@
 //
 
 #include <iostream>
-
+// класс стоимость и расходы
 int main()
 {
-    std::cout << "Hello World!\n";
+
 }
